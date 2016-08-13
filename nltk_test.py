@@ -5,9 +5,25 @@ from nltk import pos_tag, word_tokenize
 #print text3.dispersion_plot(["God", "LORD", "Abraham", "Joseph"])
 #print sorted(set(text3))
 #print len(set(text3))
-text = word_tokenize("And now for something completely different")
-print nltk.pos_tag(text)
 
+with open('resume.txt', 'r') as myfile:
+    resume_text = myfile.read()
+with open('job.txt', 'r') as myfile:
+    job_text = myfile.read()
+
+
+#text = word_tokenize(data)
+#sent = nltk.pos_tag(text)
+#print [s for s in sent if s[1] == 'NN']
+#print [s for s in sent if s[1] == 'VB']
+
+
+from fuzzywuzzy import fuzz
+
+s1 = resume_text
+s2 = job_text
+
+print fuzz.partial_ratio(s1, s2)
 #from __future__ import print_function
 
 #tokenizer = nltk.data.load('nltk:tokenizers/punkt/english.pickle')
