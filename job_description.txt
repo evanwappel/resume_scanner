@@ -1,0 +1,37 @@
+Responsibilities
+Be responsible for the deployment and operation of Google's Fiber to the Home (FTTH) build in a metropolitan area.
+Lead all Deployment and Operational team members within a metropolitan area.
+Ensure alignment between different parts of the customer network deployment from design all the way to service delivery.
+Ensure the best local network is designed, built, and maintained with speed and within cost targets.
+Work with the City Manager to ensure business targets are met.
+Coordinate with city officials, jurisdictional authorities and utility representatives.
+Manage proposals, bids, scope definition, engineering design cycles and design review and approvals for a FTTH network,
+specifically, the selection of EPC vendors.
+Develop and grow a talented team of deployment Googlers.
+
+Minimum qualifications
+Bachelor's degree in Economics, Management, Engineering, Telecommunications or a closely related field,
+or equivalent practical experience.
+Experience in managing a team and motivating towards hitting targets.
+Management experience in driving contractor performance.
+
+Preferred qualifications
+MBA or advanced degree.
+10 years of experience with fiber network deployments, including experience with constructing new outside and
+inside plant fiber infrastructure, and 5 years of experience with FTTH infrastructure.
+Demonstrated leadership and people management experience.
+Experience developing requests for proposal (RFPs), scheduling projects, cost engineering, budgeting and
+forecasting costs, reporting project status and costs, procurement and in negotiating with contractors and vendors.
+#Working knowledge of inside and outside plant fiber optic network infrastructure, make ready, permitting,
+#engineering design and construction.
+Knowledge of network drawings, route maps and scopes of work, interpreting fiber test results
+and auditing projects for compliance with scopes of work.
+Familiarity with GPON and Ethernet optical access technologies.
+Familiarity with #DWDM optical transport systems.
+Familiarity with other network transmission protocols and in-home network architecture.
+
+Area
+At Google, we're always trying to provide our users with the fastest services possible.
+Google Fiber works to go the very last mile, providing fiber-optic Internet connections directly to users' homes.
+We're building one of the fastest networks in America so that users can experience the future of broadband
+because we know that your Internet connection can never be too fast.
