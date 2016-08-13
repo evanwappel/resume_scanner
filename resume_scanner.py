@@ -1,9 +1,7 @@
 #!/usr/bin/python
-<<<<<<< HEAD
+
 
 # count the words in the resume
-=======
->>>>>>> b414f9ad7931420e4ead246ba4dcf7a27702e537
 print "resume word count"
 file=open("resume.txt","r+")
 wordcount={}
