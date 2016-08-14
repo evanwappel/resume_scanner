@@ -6,14 +6,14 @@ Network Deployment and Operations (NDO) Lead
 
 Solutions-oriented and analytical with history of success contributing to reliable, best-in-class IT/network design
 
-Adept at readily gathering and translating complex requirements into viable solutions. Strong production background involving Python and proficiency with FTTH Engineering and measurement tools. Excel at collaborating across departments; coordinate with staff and managers to complete projects on time and within budget.
+Adept at readily gathering and translating complex requirements into viable solutions. Bachelor's degree in Telecommunications Engineering. Proficiency with FTTH Engineering and measurement tools. Experience in managing a team and motivating towards hitting targets.
 
 Engineering and technical expertise includes…
 
 Working knowledge of inside and outside plant fiber optic network infrastructure, make ready, permitting, engineering design and construction.
-Deep understanding of Physical Layer performance monitoring and reporting
-Experienced with Broadband expansion projects in FTTP, GPON technologies
-Solid understanding of Gigapower, xDSL, VDSL, 7367 and G.Fast to support higher speeds
+Familiarity with other network transmission protocols and in-home network architecture.
+Management experience in driving contractor performance
+Familiarity with GPON and Ethernet optical access technologies
 
 
 Experience
@@ -21,13 +21,14 @@ Experience
 Apex Systems, at Google (Mountain View, CA)
 Design Engineer, 2015 - 2016
 
-Worked with other highly capable network architects in the identification of new innovations, services, products and implementations for Google Fiber.
-Designed the network using of rate/reach monitoring, validation, and mitigation
+Worked on the deployment and operation of Google's Fiber to the Home (FTTH) build in a metropolitan area
+Experienced with fiber network deployments, including constructing new outside and inside plant fiber FTTH infrastructure
 Delivered 2,000 corrections made to the customer database
 Leveraged deep understanding of FTTH outside plant, vendors and industry trends, program lead on key innovation project.
-Produced a 16-page white paper on best practices for Google Fiber
+Worked with a talented team of deployment Googlers to produce a 16-page white paper on best practices for Google Fiber
 Identified areas of innovation and optimization of OSP and ISP solutions by creating cost models and comparing designs against our current architecture.
-Experienced with statistical analysis of large volume data (> 1GByte compressed with millions of records)
+Managed proposals, bids, scope definition, engineering design cycles and design review and approvals for a FTTH network, including selection of EPC vendors
+
 
 
 
@@ -35,20 +36,20 @@ AT&T (San Ramon, CA)
 Senior Network Planning Engineer, 2011 - 2015
 Analyzed and evaluated data collected from field test activities, FFA trials
 Gained insight of various data to determine trends, issues and troubles to develop network/service intelligence and analytics
-Designed, analyzed, planned and modified network components and architecture in support of the wireless and wireline infrastructure, developed scorecards & dashboards
+Ensured the best local network is designed, built, and maintained with speed and within cost targets.
 Provided mid to long-term Project Management for DWDM optical transport systems which included analysis, solution recommendations, and implementation strategies to complex business issues. (These activities were the basis for capital deployment and allocation decisions)
-Prepared the analysis of the short-term or long-term capacity needs for wireless and wireline infrastructure, conducted network architecture design, feasibility & cost studies
+Ensured alignment between different parts of the customer network deployment from design all the way to service delivery
 Studied and forecasted traffic drivers to determine short and/or long term capacity needs, provided support for traffic analyses and automation resulting in 20% savings
 
 AT&T (Pleasanton, CA)
 RF Design Engineer 2007 - 2011
-Defined the data collection mechanism and analysis logic, wrote programs, and established the communications plan with business
+Coordinated with city manager, jurisdictional authorities and utility representatives.
 Saved 1,000 external firm billable hours per year by reorganizing internal staffing
 Improved customer circuit routing by 30%
 Produced network GIS map to display 20,000 circuits in a UI
-Prepared FCC/FAA and Regulatory submissions in a timely manner
-Created Atoll plots, identified location specific needs for new cells
-Experienced with data mining techniques including pattern recognition and predictive analytics, R programming
+Experienced developing requests for proposal (RFPs), scheduling projects, cost engineering, budgeting and
+forecasting costs, reporting project status and costs, procurement and in negotiating with contractors and vendors.
+Demonstrated leadership and people management experience.
 
 
 Bechtel (San Francisco, CA)
@@ -57,7 +58,9 @@ Designed cell site facilities in San Francisco and Marin counties, worked with c
 Worked with Bechtel Construction teams, architects, power engineers and AT&T RF Engineers to achieve the best design possible on new sites that were being built
 Reviewed, modified and redlined drawings based on feedback from various groups, communicated changes back to the architects for construction drawing revisions
 Tested new UMTS/GSM devices on the Cingular 3G network,
-Performed drive-testing, mobile performance measurements, documentation, data throughput testing, verification of all software/hardware functionally using test scripts.
+Demonstrated knowledge of network drawings, route maps and scopes of work, interpreting fiber test results
+and auditing projects for compliance with scopes of work.
+
 
 
 

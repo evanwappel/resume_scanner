@@ -30,8 +30,3 @@ Familiarity with GPON and Ethernet optical access technologies.
 Familiarity with #DWDM optical transport systems.
 Familiarity with other network transmission protocols and in-home network architecture.
 
-Area
-At Google, we're always trying to provide our users with the fastest services possible.
-Google Fiber works to go the very last mile, providing fiber-optic Internet connections directly to users' homes.
-We're building one of the fastest networks in America so that users can experience the future of broadband
-because we know that your Internet connection can never be too fast.
