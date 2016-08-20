@@ -1,2 +1,67 @@
-Network Engineer III is responsible for complex and diverse network platforms/topologies within a network management center or organization, and may handle enterprise level issues. The candidate provides technical support by analyzing hardware and/or software data, identifying the root cause of the problem and developing/implementing hardware and/or software solutions. Candidate is responsible for design, integration, operation and management of complex enterprise networks, linking a variety of platforms, operating systems, network topologies and network protocols. Candidate may also manage teams of engineers or lead project initiatives related to network architecture, evaluation of hardware and software products and problem resolution. 
-Bachelor’s Degree in Engineering or other related field or equivalent experience.  8 years of related work experience.
+5+ years related experience, with 2+ years managing contracts in large, complex organizations, particularly with respect to managing telecommunications and infrastructure services suppliers.
+
+	Knowledge of contract management lifecycle activities including the initiate, bid, develop, negotiate and manage functions.
+
+	Understanding of IT contracts and value drivers, with ability to work with procurement and legal teams to negotiate contract terms & conditions.
+
+Understanding and awareness of IT outsourcing industry and healthcare peer group contractual benchmarking
+
+Excellent communicator with strong customer focus.
+
+Strong planning, coordination, and project management skills.
+
+Customer service oriented to assist client with articulating business problem and project requirements.
+
+	Research skills and ability to independently learn tools and existing procedures.
+
+Strong technical writing and process documentation skills.
+
+Excellent verbal, written and presentation skills.
+
+Time management and task prioritization skills.
+
+Commercial acumen, market knowledge, analytical abilities and interpersonal skills.
+Skilled in communication, listening, influencing and managing change.
+	Knowledge of contracts management objectives, principles and practices, large, complex IT environments.
+	Strong understanding and awareness of IT supplier industry.
+	Background in Telecommunications, Data Networks, Wireless or Voice technologies.
+Experience implementing tools or applications to manage supplier contract portfolios.
+Individuals with an understanding of supplier contracts management coupled with a broad understanding of other areas of supplier management will be particularly suited for this position.
+DAY TO DAY:
+ 
+10% travel between Kaiser locations, Oakland or Walnut Creek, CA
+Onsite is required. Location is flexible either Oakland or Walnut Creek
+Minimum of 5 years’ experience is required.
+
+Responsibilities
+Contracts Negotiation
+	Develop, negotiate and manage Master Services Agreements, Statements of Work, Letter Agreements and Change Orders with suppliers on behalf of the Telecom Supplier Management (TSM) team to deliver greater levels of innovation and competitive advantages to the KP-IT IMG Network Services and Kaiser Permanente.
+
+Partner with IMG Network Services stakeholders through the preparation of competitive bids and proposals with pertinent specifications, terms and conditions relating to scope, schedule, quality and cost.
+
+Analyze bids and proposals in support of the sourcing event evaluation process.
+
+	Align contract deliverables, terms & conditions and pricing with technical objectives of Program Managers and authorized suppliers.
+
+Partner with IMG Network Services stakeholders through negotiation of contract deliverables, pricing and general terms & conditions with suppliers.
+
+Create agreement and project specific service level penalties and incentives with suppliers.
+
+Partner with KPIT National Sourcing organization to ensure compliance with legal requirements, owner specifications and government regulations.
+
+ 
+Contracts Management
+Utilizing SCOR and/or CSCMP reference models to create standard processes, implement methodologies, diagnostics, and benchmarking tools to administer supplier contracts and maintain a contract database to track and report on the TSM supplier contract portfolio.
+
+	Define, implement, maintain, and audit core supplier contracts management processes such as: planning, requirements gathering, drafting, negotiation, procurement, approval and tracking of contracts utilizing frameworks such as ITIL, CMMI, Project Management (PMP), and/or Six Sigma.
+
+Maintain a supplier performance and risk management, control-conscious culture by delivering a consistent, integrated contracts management function.
+
+Train IMG Network Services stakeholders on SOW creation and negotiation procedures & best practices.
+
+Tracks trends, anomalies and opportunities for supplier agreement improvements.
+
+Develop and implement contracts management policies and procedures.
+
+Ensure consistency of supplier contracts management tracking and reporting within IMG Network Services.
+

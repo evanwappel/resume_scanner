@@ -2,55 +2,53 @@ Evan Wappel
 4271 Fitzwilliam St, Dublin, CA 94568
 925.400.3614 • ewappel@gmail.com
 
-ETL Database Developer
+Contracts Manager
 
-Solutions-oriented and analytical with history of success contributing to reliable, best in class IT and network design
+Solutions-oriented and analytical with history of success contributing to reliable, best-in-class IT/network design
 
-Adept at readily gathering and translating complex requirements into viable solutions. Strong production background involving Python and proficiency with SQL stored procedure development. Excel at collaborating across departments; coordinate with staff and managers to complete projects on time and within budget. Highly experienced and results driven IT database professional
+Adept at readily gathering and translating complex requirements into viable solutions. Strong production background involving Python and proficiency with RF Engineering and measurement tools. Excel at collaborating across departments; coordinate with staff and managers to complete projects on time and within budget.
 
 Engineering and technical expertise includes…
 
-16 + years of experience in the information technology and telecommunications industry
-Deep understanding of database extract, transform, cleansing and load script development, ETL automation and report development.
-Extremely collaborative and accustomed to working within a matrix organizational structure
-Experienced in report development in SAP BusinessObjects BI
+14 years experience in Telecommunications, Data Networks, Wireless and Voice technologies
+Knowledge of contract management lifecycle activities including the initiate, bid, develop, negotiate and manage functions
+Knowledge of contracts management objectives, principles and practices, large, complex IT environments
+Proficient in office computer applications: Excel, Word, PowerPoint, Visio, Access, Atoll, Siterra, MapInfo and Google Earth
 
 
-Experience
+Experience Highlights
 
 Apex Systems, at Google (Mountain View, CA)
 Design Engineer, 2015 - 2016
 
-Worked with other highly capable network architects in the identification of new innovations, services, products and implementations for Google Fiber.
-Documented data warehouse requirements and participated in data modeling on the Google PLX query system
 Delivered 2,000 corrections made to the customer database
+Produced a 16-page white paper on Google Fiber
+Researched new technologies and independently learned tools and existing procedures related to Google Fiber
 Leveraged deep understanding of FTTH outside plant, vendors and industry trends, program lead on key innovation project.
-Produced a 16 page white paper on best practices for Google Fiber
-Identified areas of innovation and optimization of OSP and ISP solutions by creating cost models and comparing designs against current architecture.
-Experienced with statistical analysis of large volume data (> 1GByte compressed with millions of records)
-Engaged with capacity planning, demand forecasting and infrastructure planning stakeholders to develop data requirements
+Engaged other Google Fiber teams including Product Management, Software Engineering and Business Development and provide support when necessary.
+Identified areas of innovation and optimization of OSP and ISP solutions by creating cost models and comparing designs against our current architecture.
+Supported engagement with vendors and suppliers on architectural direction and development.
+Interacted with Supply Chain to ensure accurate material forecasts
 
 
 AT&T (San Ramon, CA)
 Senior Network Planning Engineer, 2011 - 2015
-Analyzed and evaluated data collected from field test activities, FFA trials
-Gained insight of various data to determine trends, issues and troubles to develop network/service intelligence and analytics
 
 Designed, analyzed, planned and modified network components and architecture in support of the wireless and wireline infrastructure, developed scorecards & dashboards
-Established effective demand forecasting, capacity planning and infrastructure planning processes
-Provided project management for a specific technology which included analysis, solution recommendations, and implementation strategies to complex business issues. (Basis for capital deployment and allocation decisions)
-Prepared analysis on Demand Forecasting and Infrastructure Planning to identify the short-term or long-term capacity needs for wireless and wireline infrastructure, conducted network architecture design, feasibility & cost studies
+Provided mid to long-term Project Management for a specific technology which included analysis, solution recommendations, and implementation strategies to complex business issues. (These activities were the basis for capital deployment and allocation decisions)
+Aligned contract deliverables, terms & conditions and pricing with technical objectives of Program Managers and authorized suppliers
 Studied and forecasted traffic drivers to determine short and/or long term capacity needs, provided support for traffic analyses and automation resulting in 20% savings
 
-AT&T (Pleasanton, CA)
+AT&T (San Ramon, CA)
 RF Design Engineer 2007 - 2011
-Defined the data collection mechanism and analysis logic, wrote programs, and established the communications plan with business
+Generated FCC compliance reports for 3,000 cell site facilities
 Saved 1,000 external firm billable hours per year by reorganizing internal staffing
 Improved customer circuit routing by 30%
-Implemented data extract and transformation programs to establish a data warehouse and reporting solution
 Produced network GIS map to display 20,000 circuits in a UI
-Gathered and analyzed infrastructure capacity, demand metrics and business data from a variety of sources, and used it to recommend reporting solutions that supported infrastructure capacity and trend analysis
-Experienced with data mining techniques including pattern recognition and predictive analytics, R programming
+Prepared FCC/FAA and Regulatory submissions in a timely manner
+Developed, negotiated and managed Statements of Work, Letter Agreements and Change Orders with suppliers to provide services
+Optimized the network taking baseline, performance, capacity, and population into consideration
+Evaluated coverage problems and requirements for new cells, created plumbing diagrams and DUS plans
 
 
 Bechtel (San Francisco, CA)
@@ -59,26 +57,24 @@ Designed cell site facilities in San Francisco and Marin counties, worked with c
 Worked with Bechtel Construction teams, architects, power engineers and AT&T RF Engineers to achieve the best design possible on new sites that were being built
 Reviewed, modified and redlined drawings based on feedback from various groups, communicated changes back to the architects for construction drawing revisions
 Tested new UMTS/GSM devices on the Cingular 3G network,
-Performed drive-testing, mobile performance measurements, documentation, data throughput testing, verification of all software/hardware functionally using test scripts.
+Implemented contracts management processes such as planning, requirements gathering, procurement utilizing Six Sigma
 
 
 
 Expertise
-Project Management, Planning, Reporting, Wireless, Infrastructure, Data Analysis, Forecasting, Training, Analytics Software (Alteryx, FME Desktop, Toad for Oracle), Processing, Access, Git, GPON, GIS, Fiber Optic Networks, LTE, SQL, Python, OSP, Google Docs/Spreadsheets, Korem Geospatial Software, PL/SQL, Teradata Data Warhouse, Google PLX
-
+Project Management, Planning, Reporting, Wireless, Infrastructure, Data Analysis, Forecasting, Training, Analytics Software (Alteryx, FME Desktop, Toad for Oracle), Processing, Access, Git, Strategy, Hardware, Networking, Negotiation, Debugging, Telecommunications, Capacity, GPON, GIS, Fiber Optic Networks, LTE, SQL, Python, OSP, Google Docs/Spreadsheets, Roofview
 
 Education
-
-University of Saskatchewan, Saskatoon, SK, Canada					1998
-BSEE Electrical Engineering; concentrations in Telecommunications
+University of Saskatchewan (Saskatoon, SK, Canada)
+BSEE Electrical Engineering, 1998
+Specialized in telecommunications
 
 Udacity
-Nanodegree, Full Stack Web Developer							2015
-
+Full Stack Web Developer Nanodegree - 2015
 
 
 Interests
-Guitar, Mountain Biking, Real Estate, Reading, Hiking, Camping, Investing, Arduino, Solar Energy, Music, Travel. Computer Science, SAS, Natural Language Toolkit
+Guitar, Mountain Biking, Real Estate, Reading, Hiking, Camping, Investing, Arduino, Solar Energy, Music, Travel. Computer Science
 
 
 Volunteer

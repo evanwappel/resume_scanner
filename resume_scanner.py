@@ -48,7 +48,7 @@ resume_text = temp
 
 
 
-# import resume.txt
+# import job.txt
 file=open("job.txt","r+")
 
 # create dict

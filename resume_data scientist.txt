@@ -1,0 +1,95 @@
+Evan Wappel
+4271 Fitzwilliam St, Dublin, CA 94568
+925.400.3614 • ewappel@gmail.com
+
+ETL Database Developer
+
+Solutions-oriented and analytical with history of success contributing to reliable, best in class IT and network design
+
+Adept at readily gathering and translating complex requirements into viable solutions. Strong production background involving Python and proficiency with SQL stored procedure development. Excel at collaborating across departments; coordinate with staff and managers to complete projects on time and within budget. Highly experienced and results driven IT database professional
+
+Engineering and technical expertise includes…
+
+16 + years of experience in the information technology and telecommunications industry
+Deep understanding of database extract, transform, cleansing and load script development, ETL automation and report development.
+Extremely collaborative and accustomed to working within a matrix organizational structure
+Experienced in report development in SAP BusinessObjects BI
+
+
+Experience
+
+Apex Systems, at Google (Mountain View, CA)
+Design Engineer, 2015 - 2016
+
+Worked with other highly capable network architects in the identification of new innovations, services, products and implementations for Google Fiber.
+Documented data warehouse requirements and participated in data modeling on the Google PLX query system
+Delivered 2,000 corrections made to the customer database
+Leveraged deep understanding of FTTH outside plant, vendors and industry trends, program lead on key innovation project.
+Produced a 16 page white paper on best practices for Google Fiber
+Identified areas of innovation and optimization of OSP and ISP solutions by creating cost models and comparing designs against current architecture.
+Experienced with statistical analysis of large volume data (> 1GByte compressed with millions of records)
+Engaged with capacity planning, demand forecasting and infrastructure planning stakeholders to develop data requirements
+
+
+AT&T (San Ramon, CA)
+Senior Network Planning Engineer, 2011 - 2015
+Analyzed and evaluated data collected from field test activities, FFA trials
+Gained insight of various data to determine trends, issues and troubles to develop network/service intelligence and analytics
+
+Designed, analyzed, planned and modified network components and architecture in support of the wireless and wireline infrastructure, developed scorecards & dashboards
+Established effective demand forecasting, capacity planning and infrastructure planning processes
+Provided project management for a specific technology which included analysis, solution recommendations, and implementation strategies to complex business issues. (Basis for capital deployment and allocation decisions)
+Prepared analysis on Demand Forecasting and Infrastructure Planning to identify the short-term or long-term capacity needs for wireless and wireline infrastructure, conducted network architecture design, feasibility & cost studies
+Studied and forecasted traffic drivers to determine short and/or long term capacity needs, provided support for traffic analyses and automation resulting in 20% savings
+
+AT&T (Pleasanton, CA)
+RF Design Engineer 2007 - 2011
+Defined the data collection mechanism and analysis logic, wrote programs, and established the communications plan with business
+Saved 1,000 external firm billable hours per year by reorganizing internal staffing
+Improved customer circuit routing by 30%
+Implemented data extract and transformation programs to establish a data warehouse and reporting solution
+Produced network GIS map to display 20,000 circuits in a UI
+Gathered and analyzed infrastructure capacity, demand metrics and business data from a variety of sources, and used it to recommend reporting solutions that supported infrastructure capacity and trend analysis
+Experienced with data mining techniques including pattern recognition and predictive analytics, R programming
+
+
+Bechtel (San Francisco, CA)
+Electrical Engineer, 2003-2007
+Designed cell site facilities in San Francisco and Marin counties, worked with cross-functional teams to ensure AT&T coverage objectives were met
+Worked with Bechtel Construction teams, architects, power engineers and AT&T RF Engineers to achieve the best design possible on new sites that were being built
+Reviewed, modified and redlined drawings based on feedback from various groups, communicated changes back to the architects for construction drawing revisions
+Tested new UMTS/GSM devices on the Cingular 3G network,
+Performed drive-testing, mobile performance measurements, documentation, data throughput testing, verification of all software/hardware functionally using test scripts.
+
+
+
+Expertise
+Project Management, Planning, Reporting, Wireless, Infrastructure, Data Analysis, Forecasting, Training, Analytics Software (Alteryx, FME Desktop, Toad for Oracle), Processing, Access, Git, GPON, GIS, Fiber Optic Networks, LTE, SQL, Python, OSP, Google Docs/Spreadsheets, Korem Geospatial Software, PL/SQL, Teradata Data Warhouse, Google PLX
+
+
+Education
+
+University of Saskatchewan, Saskatoon, SK, Canada					1998
+BSEE Electrical Engineering; concentrations in Telecommunications
+
+Udacity
+Nanodegree, Full Stack Web Developer							2015
+
+
+
+Interests
+Guitar, Mountain Biking, Real Estate, Reading, Hiking, Camping, Investing, Arduino, Solar Energy, Music, Travel. Computer Science, SAS, Natural Language Toolkit
+
+
+Volunteer
+Turning Wheels for Kids Bicycle Repair Clinic (Hayward, CA)
+Repaired bicycles for local kids and adults, 2014
+American Diabetes Association Tour de Cure (Napa, CA)
+Raised money and did a 50-mile bicycle ride in Napa Valley, 2012
+
+
+Key Projects
+
+Project Management of AT&T Compliance Program • Managed the FCC Compliance program at AT&T, supervised 3 contract engineers, tracked all deliverables and timelines to ensure all facilities (3000+) maintained FCC guidelines
+
+Google White Paper • Project managed the production of a White Paper for Google Fiber’s best practices, negotiated with civil engineering vendors to provide input data, designed layouts for presentations, successfully met all milestones
